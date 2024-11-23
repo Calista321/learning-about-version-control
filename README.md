@@ -1,2 +1,3 @@
 # Learning about Version Control
-Author: Tingting Chen
+Author: Tingting Chen  
+Solving merge conflicts is easy!
